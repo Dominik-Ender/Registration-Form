@@ -1,0 +1,16 @@
+C:\Users\aigne\source\Form\RegistrationForm\RegistrationForm\bin\Debug\net9.0-windows\RegistrationForm.exe
+C:\Users\aigne\source\Form\RegistrationForm\RegistrationForm\bin\Debug\net9.0-windows\RegistrationForm.deps.json
+C:\Users\aigne\source\Form\RegistrationForm\RegistrationForm\bin\Debug\net9.0-windows\RegistrationForm.runtimeconfig.json
+C:\Users\aigne\source\Form\RegistrationForm\RegistrationForm\bin\Debug\net9.0-windows\RegistrationForm.dll
+C:\Users\aigne\source\Form\RegistrationForm\RegistrationForm\bin\Debug\net9.0-windows\RegistrationForm.pdb
+C:\Users\aigne\source\Form\RegistrationForm\RegistrationForm\obj\Debug\net9.0-windows\RegistrationForm.Form1.resources
+C:\Users\aigne\source\Form\RegistrationForm\RegistrationForm\obj\Debug\net9.0-windows\RegistrationForm.csproj.GenerateResource.cache
+C:\Users\aigne\source\Form\RegistrationForm\RegistrationForm\obj\Debug\net9.0-windows\RegistrationForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aigne\source\Form\RegistrationForm\RegistrationForm\obj\Debug\net9.0-windows\RegistrationForm.AssemblyInfoInputs.cache
+C:\Users\aigne\source\Form\RegistrationForm\RegistrationForm\obj\Debug\net9.0-windows\RegistrationForm.AssemblyInfo.cs
+C:\Users\aigne\source\Form\RegistrationForm\RegistrationForm\obj\Debug\net9.0-windows\RegistrationForm.csproj.CoreCompileInputs.cache
+C:\Users\aigne\source\Form\RegistrationForm\RegistrationForm\obj\Debug\net9.0-windows\RegistrationForm.dll
+C:\Users\aigne\source\Form\RegistrationForm\RegistrationForm\obj\Debug\net9.0-windows\refint\RegistrationForm.dll
+C:\Users\aigne\source\Form\RegistrationForm\RegistrationForm\obj\Debug\net9.0-windows\RegistrationForm.pdb
+C:\Users\aigne\source\Form\RegistrationForm\RegistrationForm\obj\Debug\net9.0-windows\RegistrationForm.genruntimeconfig.cache
+C:\Users\aigne\source\Form\RegistrationForm\RegistrationForm\obj\Debug\net9.0-windows\ref\RegistrationForm.dll
