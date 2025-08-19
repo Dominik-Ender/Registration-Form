@@ -3,8 +3,6 @@
 A simple **Windows Forms** application for user registration.  
 The app includes input validation for all required fields and buttons to display **Terms of Service** and **Privacy Policy**.
 
----
-
 ## Features
 - Registration form with validation:
   - First name, middle name, last name, date of birth
