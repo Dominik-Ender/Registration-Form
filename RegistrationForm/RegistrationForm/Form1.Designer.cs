@@ -104,7 +104,6 @@
             labelDate.Size = new Size(44, 20);
             labelDate.TabIndex = 4;
             labelDate.Text = "Date:";
-            labelDate.Click += labelDate_Click;
             // 
             // labelPersonalInformation
             // 
